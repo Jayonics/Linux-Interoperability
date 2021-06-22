@@ -6,7 +6,7 @@
 		<th><header style="margin: 0; padding: 0;">Samba Documentation</header></th>
 	</tr>
 	<tr>
-		<td><a href="https://wiki.samba.org/index.php/Setting_up_Samba_as_a_Domain_Member">1. Setting up Samba as a Domain Member</a><td>
+		<td><a href="https://wiki.samba.org/index.php/Setting_up_Samba_as_a_Domain_Member">Setting up Samba as a Domain Member</a><td>
 	</tr>
 	<tr>
 		<td><a href="https://wiki.samba.org/index.php/Idmap_config_rid">ID Mapping Documentation: RID (Algorithmic Posix ID assignment</a><td>
